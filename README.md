@@ -1,3 +1,5 @@
 # TensorFlow_Notes
 
-TensorFlow 学习笔记，第一部分包括最开始的概念理解、张量、计算图，到全连接网络、损失函数、滑动平均模型、MNIST手写数字识别、变量管理、模型计算图储存与格式等。
+TensorFlow 学习笔记，从最开始的 TensorFlow 基础操作、MNIST手写字体识别到模型的持久化和TensorBoard可视化等内容提供了TF的学习笔记。
+
+- TensorFlow基础操作
