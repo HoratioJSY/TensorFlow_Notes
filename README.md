@@ -8,3 +8,4 @@ TensorFlow 学习笔记，从最开始的 TensorFlow 基础操作、MNIST手写�
 - [卷积操作与卷积层，LeNet-5和Inception模块](https://github.com/Horatio-JSY/TensorFlow_Notes/blob/master/4.tf_CNN.ipynb)
 - [TFRecord数据与基本的图像处理方法（队列与多线程未完善）](https://github.com/Horatio-JSY/TensorFlow_Notes/blob/master/5.tf_TFRecord.ipynb)
 - [简单的循环神经网络与PTB数据集的语言建模](https://github.com/Horatio-JSY/TensorFlow_Notes/blob/master/6.tf_RNN.ipynb)
+- [TensorBoard基础，计算图与监控指标的可视化](https://github.com/Horatio-JSY/TensorFlow_Notes/blob/master/7.tf_TensorBoard.ipynb)
